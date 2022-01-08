@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+   background-color:  rgb(55, 55, 161);
+}
+
+#texto{
+    
+    color: white;
+
+}
+
+button{
+    margin: 0;
+}
+
+#titulo{
+  text-align: center;
+}
+
+.tareaNueva{
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding-top :0px;
+    padding-bottom: 0px;
+    padding-left: 29px;
+    padding-right: 20px;
+
+    margin-top: 5px;
+
+}
+
+.tarea{
+    margin-top: 2%;
+}
+
+#agregar{
+
+width: 50px;
+height: 50px;
+border: 0px;
+border-radius: 10px;
+background-color:rgb(255, 6, 46);
+color: white;
+}
+
+#vaciar{
+width: 50px;
+height: 50px;
+border: 0px;
+border-radius: 10px;
+background-color:lightblue;
+color: white;
+}
+
+.botones{
+   width: 35px;
+   text-align: center;
+   height: 35px;
+   border-radius: 30%;
+   font-size: 20px;
+   margin-left: 3px;
+}
+
+#botonEditar{
+width: 30px;
+height: 30px;
+font-size: 17px;
+border: 0px;
+border-radius: 5px;
+background-color:lightblue;
+color: white;
+}
+
+#botonBorrar{
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    border: 0px;
+    border-radius: 5px;
+    background-color:lightblue;
+    color: white;
+    }
